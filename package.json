@@ -1,0 +1,18 @@
+{
+  "name": "nft_collection_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Secret Duck Society",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "heap-js": "^2.1.6",
+    "heapify": "^0.4.0",
+    "just-clone": "^3.2.1"
+  }
+}
