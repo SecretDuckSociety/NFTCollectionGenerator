@@ -7,8 +7,6 @@
 
 # NFTCollectionGenerator
 
-## Lesson 1: <s>My code is self-documenting</s> A repo is only as good as its README
-
 ### Prerequisites
 You must download some prerequisite software to be able to run this code:
 - [Node](https://nodejs.org/en/download/)
