@@ -1,9 +1,9 @@
 # Welcome to the Secret Duck Society
-🦆[Website](https://secretducksociety@protonmail.com)
+🦆 [Website](https://secretducksociety@protonmail.com)
 
-🦆[Twitter](https://twitter.com/secretducknft)
+🦆 [Twitter](https://twitter.com/secretducknft)
 
-🦆[Discord](https://discord.gg/a7nVsdsv5Q)
+🦆 [Discord](https://discord.gg/a7nVsdsv5Q)
 
 # NFTCollectionGenerator
 
